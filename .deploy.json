@@ -1,0 +1,9 @@
+{
+    "DEPLOYPATH": "/home/shakir/public_html/gitdeploy/",
+	"task": [
+        "filename", 
+        "filename", 
+        "filename", 
+        "filename",
+    ]
+}
