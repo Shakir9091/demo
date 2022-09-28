@@ -1,9 +1,13 @@
 {
     "DEPLOYPATH": "/home/shakir/public_html/gitdeploy/",
 	"task": [
-        "filename", 
-        "filename", 
-        "filename", 
-        "filename",
+        "test8833.php", 
+        "test234.php",
+		"test88.php",
+		"test23",
+		"test2.php",
+		"test.php",
+		"t77est23",
+		"gfhgfd",
     ]
 }
